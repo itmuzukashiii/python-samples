@@ -1,0 +1,6 @@
+{
+   "HOST"        : "192.168.30.33"
+  ,"PORT"        : "22"
+  ,"USERNAME"    : "ubuntu"
+  ,"PRIVATE_KEY" : "id_ed25519"
+}

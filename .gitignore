@@ -4,6 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 __pycache__
+id_ed25519
+id_ed25519.pub
 
 # User-specific files
 *.rsuser
