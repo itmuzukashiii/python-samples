@@ -55,3 +55,9 @@
 ### 013_for_in_string
 
 - python の str は iterable であることのテスト
+
+### 014_class_static_method
+
+- classmethod, staticmethod のテスト
+- デフォルトで用意されているデコレータ `@classmethod`, `@staticmethod` を使う
+- これらを指定しないとインスタンスメソッドと解釈され，インスタンス化が必要となる
